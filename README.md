@@ -1,4 +1,4 @@
-# Imersão Dev Front-End Alura - Projeto Spotity
+# Imersão Dev Front-End Alura - Projeto Spotity React
 
 Este repositório contém o projeto desenvolvido durante a Imersão Front-End da Alura. Uma experiência intensa e prática, composta por cinco aulas, focada no desenvolvimento de habilidades em HTML, CSS e JavaScript.
 
